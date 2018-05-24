@@ -13,4 +13,4 @@ To run this project you will need:
 
 ## Reviewer Instructions
 
-Open `project_notebook.ipynb` in a Jupyter notebook and go through the instructions listed there!
+Open `Traffic_Light_Classifier.ipynb` in a Jupyter notebook and go through the instructions listed there!
